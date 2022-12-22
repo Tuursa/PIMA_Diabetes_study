@@ -3,7 +3,7 @@
 Before diving deep into the project, let's understand the problem statement and the data given to us.
 Our Objective: build a model to accurately predict whether the patients in the dataset have diabetes or not?
 
-Dataset: Available in the project GitHub dir.
+# Dataset: Available in the project GitHub dir.
 
 The datasets consists of several medical predictor variables and one target variable, Outcome.
 Predictors:
