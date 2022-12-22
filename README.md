@@ -19,3 +19,5 @@ Predictors:
 From the data description, we can point out some of the features and make certain assumptions:
 The data set is not normalized, i.e., different features (variables) have other units of measurement. We will need to Standardize the dataset
 Based on eight features/variables, we have to predict the "Outcome"(Target variable)
+
+# Watch out for typos!
